@@ -4,14 +4,14 @@ I also archived some PDFs in this repo in case they go missing some day (and did
 [HP Product Material Content Information, 2019](/c05117791.pdf)
 [LCA of an Ecolabeled Notebook, 2011](/LCA_laptop_final.pdf)
 
-Data Basis:
-Symbol - Element
-    amount in laptop
-    top 3 producing countries
-        source
-    amount in earth's crust (sources: wikipedia)
-    coordinates
-Al - Aluminium
+Data Basis:<br>
+Symbol - Element<br>
+    amount in laptop<br>
+    top 3 producing countries<br>
+        source<br>
+    amount in earth's crust (sources: wikipedia)<br>
+    coordinates<br>
+Al - Aluminium<br>
     6,0%
     CHN-China, 55%, IND-India 6,17%, RUS-Russia 6,17% / (from Bauxite)
         https://en.wikipedia.org/wiki/List_of_countries_by_primary_aluminium_production
