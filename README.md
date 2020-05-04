@@ -5,7 +5,7 @@ I also archived some PDFs in this repo in case they go missing some day (and did
 [LCA of an Ecolabeled Notebook, 2011](/LCA_laptop_final.pdf)
 
 Data Basis:<br>
-Symbol - Element<br>
+Element (Symbol)<br>
     amount in laptop<br>
     top 3 producing countries<br>
         source<br>
