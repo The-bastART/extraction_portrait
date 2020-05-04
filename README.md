@@ -1,8 +1,8 @@
 # Extraction Portrait Sources
 I also archived some PDFs in this repo in case they go missing some day (and didn't get picked up by archive.org)
-[/FULLTEXT02.pdf](Critical metals in discarded electronics, 2016)
-[/c05117791.pdf](HP Product Material Content Information, 2019)
-[/LCA_laptop_final.pdf](LCA of an Ecolabeled Notebook, 2011)
+[Critical metals in discarded electronics, 2016](/FULLTEXT02.pdf)
+[HP Product Material Content Information, 2019](/c05117791.pdf)
+[LCA of an Ecolabeled Notebook, 2011](/LCA_laptop_final.pdf)
 
 Data Basis:
 Symbol - Element
