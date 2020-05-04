@@ -9,7 +9,7 @@ Element (Symbol)<br>
     amount in laptop<br>
     top 3 producing countries<br>
         source<br>
-    amount in earth's crust (sources: wikipedia)<br>
+    amount in earth's crust (source: wikipedia)<br>
     coordinates<br><br>
 Aluminium (Al)<br>
     6,0%<br>
